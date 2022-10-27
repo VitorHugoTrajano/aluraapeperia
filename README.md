@@ -1,2 +1,3 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+
+Projeto Alura Apeperia concluído durante a aula Layouts Responsivos: trabalhando com layouts mobile. 
